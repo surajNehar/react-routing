@@ -1,0 +1,25 @@
+.header{
+    background-color: aliceblue;
+  }
+  .navOption{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: medium;
+    color:blue;
+    background-color: aquamarine;
+  }
+  .menu{
+    display: flex;
+    font-size: 5rem;
+    color:skyblue;
+  
+  }
+  .buttonbtn{
+    color: black;
+    background-color: aqua;
+    padding: 20px;
+    border: 2px solid red;
+    font-size:30px;
+    border-radius: 10px;
+  }
